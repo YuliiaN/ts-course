@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "ts-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliiaN/ts-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliiaN/ts-course/issues"
+  },
+  "homepage": "https://github.com/YuliiaN/ts-course#readme",
+  "description": ""
+}
